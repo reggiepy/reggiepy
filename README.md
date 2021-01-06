@@ -30,8 +30,6 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=reggiepy.reggiepy" alt="visitors"/>
 </p>
 
-[![reggiepy's github stats](https://github-readme-stats.vercel.app/api?username=reggiepy)](https://github.com/reggiepy)
-
 <p align="left">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reggiepy&layout=compact&hide=html" alt="dongweiming" />
 </p>
