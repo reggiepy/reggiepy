@@ -1,7 +1,7 @@
 **👋 Hello, folks! :**
 
 * 🖥  I'm product developer and technical writer based in Beijing, China.
-* ✍️  I wrote dev articles on <a href="http://49.233.119.179:6105/" target="_blank">My Blog</a>
+* ✍️  I wrote dev articles on <a href="http://82.156.203.198:6105/" target="_blank">My Blog</a>
 * 🧐 I'm Interested in full stack. Recent focus on backend.
 * 🔍 I'm a console tech fan.
 
