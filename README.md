@@ -33,8 +33,5 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reggiepy&layout=compact&hide=html" alt="dongweiming" />
 </p>
 
-
-[![reggiepy's github stats](https://github-readme-stats.vercel.app/api?username=reggiepy)](https://github.com/reggiepy)
-
-
+[![reggiepy's GitHub stats](https://github-readme-stats.vercel.app/api?username=reggiepy)](https://github.com/reggiepy/github-readme-stats)
 
